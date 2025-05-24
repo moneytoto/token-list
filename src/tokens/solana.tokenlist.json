@@ -1,8 +1,6 @@
-"chaind" : 101
-"address":"44coCG2Ws1ocgWefiZRw8MZA1iVYASg6WGz7xkx8EJMy",
-"symbol" :"GOOD ",
-​"name": "GOODCOIN",
+("chaind" : 101
+"address":"FwRVDRHJ4G8PwXQvY8tuNTfnr8xoxoH7YE1vbnyb8vNP",
+"symbol" :""GOOD-USDC-LP"
+​"name": "GOOD​COIN-USDC LP"
 "decimal":9,
-"logoul":https://yourdomain.com/images/goodcoin.png,
-"tags":("utilty-token"),
-"extensions":("website":"https://goodcoin.org", "twitter": "https://twitter.com/goodcoin"," coingeckoId": "goodcoin")
+"logoul":https://yourdomain.com/images/goodcoin.png,"tags":("utilty-token"),"extensions":("website":"https://goodcoin.org", "twitter": "https://twitter.com/goodcoin"," coingeckoId": "goodcoin")
