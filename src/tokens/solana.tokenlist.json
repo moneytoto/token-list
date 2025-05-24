@@ -1,7 +1,8 @@
 "chaind" : 101
 "address":"44coCG2Ws1ocgWefiZRw8MZA1iVYASg6WGz7xkx8EJMy",
-"symbol" :"GOOD COIN",
-​"name": "GOOD",
+"symbol" :"GOOD ",
+​"name": "GOODCOIN",
 "decimal":9,
-"logoul":https://example.com/logo.png",
-"extensions":("website":"https://yourwebsite.com")
+"logoul":https://yourdomain.com/images/goodcoin.png,
+"tags":("utilty-token"),
+"extensions":("website":"https://goodcoin.org", "twitter": "https://twitter.com/goodcoin"," coingeckoId": "goodcoin")
